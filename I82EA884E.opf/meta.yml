@@ -1,0 +1,38 @@
+id: I82EA884E
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:05:50.327111'
+last_modified: '2022-06-18T20:05:50.327130'
+parser: null
+source_metadata:
+  title: Seven points of mind training and prayer by Tsong kha pa (1357–1419) (block
+    print), colophon excerpt
+  author: འཆད་ཁ་བ་ཡེ་ཤེས་རྡོ་རྗེ།
+  description: 'Digital version 1.0 {Tibetan}, diplomatic edition of witness A; master
+    xml (completed: 2020-07-11); revised, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4949
+  bases:
+    412e:
+      title: Seven points of mind training and prayer by Tsong kha pa (1357–1419)
+        (block print), colophon excerpt
+      order: 1
+      base_file: 412e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
